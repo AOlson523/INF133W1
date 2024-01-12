@@ -1,0 +1,21 @@
+body, ht, p {
+    margin: 10px;
+    padding: 10px;
+}
+
+body {
+    font-family: "Comic Sans MS";
+    background-color: aqua;
+    color: coral;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: "Gloucester MT Extra Condensed";
+}
+
+p {
+    color: red;
+    font-family: "Comic Sans MS";
+}
